@@ -21,7 +21,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spam-prakash &bg_color=000000&color=ffff00&line=00ff00&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=spam-prakash)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=spam-prakash&icon=0&color=0)](https://visitcount.itsvg.in)
