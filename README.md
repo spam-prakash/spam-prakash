@@ -18,10 +18,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=spam-prakash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=spam-prakash&bg_color=000000&color=ffff00&line=00ff00&point=403d3d&area=true&hide_border=true)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=spam-prakash&bg_color=000000&color=ffff00&line=00ff00&point=403d3d&area=true&hide_border=true)
 
 
 ---
