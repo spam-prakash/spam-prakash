@@ -15,7 +15,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=spam-prakash&limit=5&theme=dark&hide_contributor_rank=true)
+![](https://github-contributor-stats.vercel.app/api?username=spam-prakash&limit=5&theme=dark&hide_contributor_rank=true&combine_all_yearly_contributions=true)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=spam-prakash&bg_color=000000&color=ffff00&line=00ff00&point=403d3d&area=true&hide_border=true)
 
