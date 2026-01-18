@@ -19,7 +19,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=spam-prakash&bg_color=000000&color=ffff00&line=00ff00&point=403d3d&area=true&hide_border=true)
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
